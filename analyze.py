@@ -1,44 +1,57 @@
-import sys
-import os
+"""
+Analyze a financial news article against Screener.in company data using Ollama.
+"""
 
-# Add the scraper folder to Python's path so it can find the module
+import os
+import sys
+
+# Add screener-scraper to path
 sys.path.append(os.path.abspath("screener-scraper"))
 
 import httpx
-import trafilatura
 import ollama
 from screenerScraper import ScreenerScrape
+import trafilatura
 
-# Now change the current directory to screener-scraper so it finds the tokens folder safely
-os.chdir("screener-scraper")
-
+# ==============================================================================
+# INPUTS (Change your target article URL, stock symbol, or model here)
+# ==============================================================================
 URL = "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms"
-SCREENER_SYMBOL = "RBLBANK"  # Change this to the stock you want to analyze
+SCREENER_SYMBOL = "RBLBANK"  # Screener.in ticker symbol (e.g. "RBLBANK", "UNOMINDA")
+MODEL_NAME = "qwen3:4b"  # Local Ollama model
 
-# 1. Download the article
+# ==============================================================================
+# 1. DOWNLOAD & EXTRACT ARTICLE TEXT
+# ==============================================================================
+print(f"[1/3] Downloading article:\n      {URL}")
 headers = {"User-Agent": "Mozilla/5.0"}
 html = httpx.get(URL, headers=headers, follow_redirects=True, timeout=20).text
 text = trafilatura.extract(html)
 if not text:
-    raise SystemExit("Could not extract text. This site may need Playwright later.")
+    raise SystemExit("Could not extract text. The article may require dynamic rendering.")
 text = text[:10000]
-print("Extracted characters:", len(text))
+print(f"      Extracted {len(text)} characters.")
 
-# 2. Get Screener data
-print(f"Fetching Screener data for {SCREENER_SYMBOL}...")
+# ==============================================================================
+# 2. FETCH SCREENER.IN FINANCIAL STATEMENTS
+# ==============================================================================
+print(f"\n[2/3] Fetching Screener data for {SCREENER_SYMBOL}...")
 scraper = ScreenerScrape()
-token = scraper.getBSEToken(SCREENER_SYMBOL)
-scraper.loadScraper(token, consolidated=True)
+scraper.loadScraper(SCREENER_SYMBOL, consolidated=True)
+
 screener_data = {
     "P&L": scraper.pnlReport(withAddon=True),
     "Balance Sheet": scraper.balanceSheet(withAddon=True),
-    "Ratios": scraper.ratios()
+    "Ratios": scraper.ratios(),
 }
+print("      Screener data retrieved successfully.")
 
-# 3. Options for the model
+# ==============================================================================
+# 3. LLM IMPACT ANALYSIS (2-STEP OLLAMA WORKFLOW)
+# ==============================================================================
 options = {"temperature": 0, "num_ctx": 12288, "seed": 42}
 
-# --- STEP 1: Extract facts first ---
+# --- STEP 1: Extract facts ---
 prompt_a = f"""STRICT RULES: Use ONLY the article below. Do NOT invent anything.
 Extract a list of every company, every number, and every date.
 For each item, write exactly what it refers to.
@@ -49,19 +62,20 @@ ARTICLE:
 {text}
 """
 
-print("Running Step 1 (Extracting facts)...")
+print("\n[3/3] Running Step 1: Extracting facts...")
 reply_a = ollama.chat(
-    model="qwen3:4b",
+    model=MODEL_NAME,
     messages=[{"role": "user", "content": prompt_a}],
     options=options,
     think=True,
 )
 
-print("\n--- STEP 1 OUTPUT: EXTRACTED LIST ---")
+print("\n" + "=" * 60)
+print("--- STEP 1 OUTPUT: EXTRACTED LIST ---")
+print("=" * 60)
 print(reply_a.message.content)
-print("\n--- STEP 2 OUTPUT: FINAL REPORT ---")
 
-# --- STEP 2: Write the report using the list, article, and Screener data ---
+# --- STEP 2: Final Report ---
 prompt_b = f"""STRICT RULES: Do NOT invent companies, dates, or numbers.
 Do NOT do your own math. If something is missing, write "Not stated."
 Use the EXTRACTED LIST to keep facts separate. Use the ARTICLE for quotes.
@@ -89,11 +103,15 @@ TASK: Write ONLY these 7 sections:
 7. Investment assessment (thesis, then what would invalidate it)
 """
 
+print("\nRunning Step 2: Generating final report...")
 reply_b = ollama.chat(
-    model="qwen3:4b",
+    model=MODEL_NAME,
     messages=[{"role": "user", "content": prompt_b}],
     options=options,
     think=True,
 )
 
+print("\n" + "=" * 60)
+print("--- STEP 2 OUTPUT: FINAL REPORT ---")
+print("=" * 60)
 print(reply_b.message.content)

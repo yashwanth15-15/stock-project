@@ -1,2 +1,21 @@
+# Environments
 .venv/
+env/
+venv/
+
+# Python cache & bytecode
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Testing & coverage
+.pytest_cache/
+
+# Local tokens/cache artifacts
+tokens/
+*.csv
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db
