@@ -1,0 +1,1309 @@
+{
+  "_meta": {
+    "ticker": "KAPSTON.NS",
+    "supplied_name": "KAPSTON SERVICES LIMITED",
+    "yahoo_short_name": "KAPSTON SERVICES LIMITED",
+    "yahoo_long_name": "Kapston Services Limited",
+    "identity_check": {
+      "match": true,
+      "partial_match": true,
+      "review_needed": false,
+      "note": "Names match exactly."
+    },
+    "retrieval_timestamp_utc": "2026-11-10T17:24:29.712612+00:00",
+    "retrieval_date_note": "This is the date/time the data was pulled from Yahoo Finance. It is NOT the financial reporting period date.",
+    "source": "Yahoo Finance via yfinance",
+    "status": "ok"
+  },
+  "description": {
+    "sector": "Industrials",
+    "industry": "Specialty Business Services",
+    "summary": "Kapston Services Limited operates as a human capital solutions provider company in India. The company offers general staffing, including contract staffing, NAPS and NATS, payroll management, permanent staffing, and recruitment process outsourcing services; integrated facility management; engineering services, including electrical and mechanical maintenance, HVAC operation and maintenance, plumbing and water management, fire and safety systems, energy management solutions, and building automation and controls; security services, such as, manned guarding and executive protection, electronic surveillance and CCTV monitoring, access control management, event security and crowd management, risk assessment and security audits, and emergency response teams; housekeeping services, including housekeeping and janitorial, pantry and office support, facade and glass cleaning, pest control and sanitization, waste management, landscaping and gardening, and specialized cleaning services; and IT staffing solutions, such as contract and project-based staffing, permanent IT talent acquisition, managed IT resource deployment, developers, engineers, analysts and support staff, and payroll and compliance management services. It serves IT and ITES, manufacturing, pharma, BFSI, NBFC and Fintech, FMCG and FMCD, automobiles, E-Com and Q-Com, retail and logistics, agriculture and food processing, healthcare and hospitality, education, infrastructure and commercial, govt. and PSUs, telecom, media and entertainment, and residential industries. Kapston Services Limited was formerly known as Kapston Facilities Management Limited and changed its name to Kapston Services Limited in February 2022. Kapston Services Limited was incorporated in 2009 and is based in Hyderabad, India.",
+    "website": "https://kapstonservices.com",
+    "country": "India",
+    "city": "Hyderabad",
+    "employees": 452
+  },
+  "leadership": [
+    {
+      "name": "Dr. Chereddi Ramachandra Naidu",
+      "title": "Executive Chairman",
+      "age": 75,
+      "total_pay": 1500000.0,
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Mr. Srikanth  Kodali",
+      "title": "MD & Executive Director",
+      "age": 51,
+      "total_pay": 19232143.0,
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Mr. Kapil  Sood",
+      "title": "Chief Financial Officer",
+      "age": "unavailable",
+      "total_pay": "unavailable",
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Dr. P. Hara Prasad Panda",
+      "title": "Executive President",
+      "age": 48,
+      "total_pay": "unavailable",
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Mr. Mora V. Vishnu Bhopal Rao",
+      "title": "Chief Operating Officer",
+      "age": 53,
+      "total_pay": "unavailable",
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Ms. Nitya  Menon",
+      "title": "Assistant Vice President of Administration & Procurement",
+      "age": "unavailable",
+      "total_pay": "unavailable",
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Mr. Kurubara  Ramesha",
+      "title": "Company Secretary and Compliance Officer",
+      "age": "unavailable",
+      "total_pay": "unavailable",
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Ms. Reena  Rekulgikar",
+      "title": "Head of Human Resources",
+      "age": "unavailable",
+      "total_pay": "unavailable",
+      "total_pay_currency": "INR"
+    },
+    {
+      "name": "Mr. Shamporam Narsing Rao Syam Sundar",
+      "title": "Senior Vice President of Staffing Solutions",
+      "age": "unavailable",
+      "total_pay": "unavailable",
+      "total_pay_currency": "INR"
+    }
+  ],
+  "valuation": {
+    "currency": "INR",
+    "financial_currency": "INR",
+    "current_price": 540.3,
+    "previous_close": 535.1,
+    "market_cap": 16442508288.0,
+    "enterprise_value": 18261260288.0,
+    "pe_ratio_trailing": 51.604584,
+    "pe_ratio_forward": "unavailable",
+    "price_to_book": 10.882395,
+    "price_to_sales_ttm": 1.8772599,
+    "ev_to_ebitda": 36.854,
+    "ev_to_revenue": 2.085,
+    "beta": 0.17,
+    "52_week_high": 616.2,
+    "52_week_low": 254.0,
+    "dividend_yield": 0.0,
+    "payout_ratio": 0.0
+  },
+  "financials_summary": {
+    "note": "Values are from Yahoo Finance info dict. Currency and scale match the 'financial_currency' field. These are trailing/reported figures, not analyst estimates.",
+    "revenue_ttm": 8758780928.0,
+    "gross_profit_ttm": 675382016.0,
+    "ebitda": 495507008.0,
+    "net_income_ttm": 318571008.0,
+    "earnings_per_share_ttm": 10.47,
+    "total_cash": 155243008.0,
+    "total_debt": 1970644992.0,
+    "total_assets": "unavailable",
+    "book_value_per_share": 49.649,
+    "operating_cash_flow": 35209000.0,
+    "free_cash_flow": -470559264.0,
+    "return_on_equity": 0.25151,
+    "return_on_assets": 0.08473,
+    "profit_margin": 0.03637,
+    "operating_margin": 0.05899,
+    "revenue_growth_yoy": 0.07,
+    "earnings_growth_yoy": 0.193,
+    "debt_to_equity": 130.138,
+    "current_ratio": 1.575,
+    "quick_ratio": 1.304
+  },
+  "income_statement_annual": {
+    "periods": [
+      "2026-03-31",
+      "2025-03-31",
+      "2024-03-31",
+      "2023-03-31",
+      "2022-03-31"
+    ],
+    "rows": {
+      "Tax Effect Of Unusual Items": {
+        "2026-03-31": 308000.0,
+        "2025-03-31": 232500.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 424800.0,
+        "2022-03-31": "unavailable"
+      },
+      "Tax Rate For Calcs": {
+        "2026-03-31": 0.4,
+        "2025-03-31": 0.3,
+        "2024-03-31": 0.3,
+        "2023-03-31": 0.3,
+        "2022-03-31": "unavailable"
+      },
+      "Normalized EBITDA": {
+        "2026-03-31": 453812000.0,
+        "2025-03-31": 316725000.0,
+        "2024-03-31": 237523000.0,
+        "2023-03-31": 153182000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Unusual Items": {
+        "2026-03-31": 770000.0,
+        "2025-03-31": 775000.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 1416000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Unusual Items Excluding Goodwill": {
+        "2026-03-31": 770000.0,
+        "2025-03-31": 775000.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 1416000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Income From Continuing Operation Net Minority Interest": {
+        "2026-03-31": 281317000.0,
+        "2025-03-31": 178365000.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 50703000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Reconciled Depreciation": {
+        "2026-03-31": 38883000.0,
+        "2025-03-31": 44947000.0,
+        "2024-03-31": 36171000.0,
+        "2023-03-31": 43040000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Reconciled Cost Of Revenue": {
+        "2026-03-31": 70975000.0,
+        "2025-03-31": 76511000.0,
+        "2024-03-31": 89102000.0,
+        "2023-03-31": 79391000.0,
+        "2022-03-31": "unavailable"
+      },
+      "EBITDA": {
+        "2026-03-31": 454582000.0,
+        "2025-03-31": 317500000.0,
+        "2024-03-31": 237523000.0,
+        "2023-03-31": 154598000.0,
+        "2022-03-31": "unavailable"
+      },
+      "EBIT": {
+        "2026-03-31": 415698000.0,
+        "2025-03-31": 272553000.0,
+        "2024-03-31": 201352000.0,
+        "2023-03-31": 111558000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Interest Income": {
+        "2026-03-31": -126088000.0,
+        "2025-03-31": -114934000.0,
+        "2024-03-31": -90048000.0,
+        "2023-03-31": -83014000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Interest Expense": {
+        "2026-03-31": 142223000.0,
+        "2025-03-31": 122158000.0,
+        "2024-03-31": 102103000.0,
+        "2023-03-31": 88071000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Interest Income": {
+        "2026-03-31": 16135000.0,
+        "2025-03-31": 7224000.0,
+        "2024-03-31": 12055000.0,
+        "2023-03-31": 7537000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Normalized Income": {
+        "2026-03-31": 280855000.0,
+        "2025-03-31": 177822500.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 49711800.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Income From Continuing And Discontinued Operation": {
+        "2026-03-31": 281317000.0,
+        "2025-03-31": 178365000.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 50703000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Expenses": {
+        "2026-03-31": 7894901000.0,
+        "2025-03-31": 6620590000.0,
+        "2024-03-31": 5002243000.0,
+        "2023-03-31": 3874137000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Rent Expense Supplemental": {
+        "2026-03-31": 12650000.0,
+        "2025-03-31": 11913000.0,
+        "2024-03-31": 12295000.0,
+        "2023-03-31": 5731000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Diluted Average Shares": {
+        "2026-03-31": 30432183.0,
+        "2025-03-31": 30432183.0,
+        "2024-03-31": 30432183.0,
+        "2023-03-31": 30432183.0,
+        "2022-03-31": "unavailable"
+      },
+      "Basic Average Shares": {
+        "2026-03-31": 30432183.0,
+        "2025-03-31": 30432183.0,
+        "2024-03-31": 30432183.0,
+        "2023-03-31": 30432183.0,
+        "2022-03-31": "unavailable"
+      },
+      "Diluted EPS": {
+        "2026-03-31": 9.24,
+        "2025-03-31": 5.86,
+        "2024-03-31": 4.133333,
+        "2023-03-31": 1.666667,
+        "2022-03-31": "unavailable"
+      },
+      "Basic EPS": {
+        "2026-03-31": 9.24,
+        "2025-03-31": 5.86,
+        "2024-03-31": 4.133333,
+        "2023-03-31": 1.666667,
+        "2022-03-31": "unavailable"
+      },
+      "Diluted NI Availto Com Stockholders": {
+        "2026-03-31": 281317000.0,
+        "2025-03-31": 178365000.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 50703000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Income Common Stockholders": {
+        "2026-03-31": 281317000.0,
+        "2025-03-31": 178365000.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 50703000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Otherunder Preferred Stock Dividend": {
+        "2026-03-31": 0.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Income": {
+        "2026-03-31": 281317000.0,
+        "2025-03-31": 178365000.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 50703000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Minority Interests": {
+        "2026-03-31": "unavailable",
+        "2025-03-31": 0.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Net Income Including Noncontrolling Interests": {
+        "2026-03-31": 281317000.0,
+        "2025-03-31": 178364000.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 50703000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Income Continuous Operations": {
+        "2026-03-31": 281317000.0,
+        "2025-03-31": 178364000.0,
+        "2024-03-31": 125707000.0,
+        "2023-03-31": 50703000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Tax Provision": {
+        "2026-03-31": -7842000.0,
+        "2025-03-31": -27969000.0,
+        "2024-03-31": -26458000.0,
+        "2023-03-31": -27216000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Pretax Income": {
+        "2026-03-31": 273475000.0,
+        "2025-03-31": 150395000.0,
+        "2024-03-31": 99249000.0,
+        "2023-03-31": 23487000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Non Operating Income Expenses": {
+        "2026-03-31": 1000.0,
+        "2025-03-31": 2000.0,
+        "2024-03-31": 12485000.0,
+        "2023-03-31": 10708000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Special Income Charges": {
+        "2026-03-31": 770000.0,
+        "2025-03-31": 775000.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 1416000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Special Charges": {
+        "2026-03-31": -770000.0,
+        "2025-03-31": -775000.0,
+        "2024-03-31": "unavailable",
+        "2023-03-31": -1416000.0,
+        "2022-03-31": -45000.0
+      },
+      "Write Off": {
+        "2026-03-31": "unavailable",
+        "2025-03-31": "unavailable",
+        "2024-03-31": "unavailable",
+        "2023-03-31": 0.0,
+        "2022-03-31": 2810000.0
+      },
+      "Net Non Operating Interest Income Expense": {
+        "2026-03-31": -126088000.0,
+        "2025-03-31": -114934000.0,
+        "2024-03-31": -90048000.0,
+        "2023-03-31": -83014000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Other Finance Cost": {
+        "2026-03-31": "unavailable",
+        "2025-03-31": "unavailable",
+        "2024-03-31": 3876000.0,
+        "2023-03-31": 2480000.0,
+        "2022-03-31": 2482000.0
+      },
+      "Interest Expense Non Operating": {
+        "2026-03-31": 142223000.0,
+        "2025-03-31": 122158000.0,
+        "2024-03-31": 102103000.0,
+        "2023-03-31": 88071000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Interest Income Non Operating": {
+        "2026-03-31": 16135000.0,
+        "2025-03-31": 7224000.0,
+        "2024-03-31": 12055000.0,
+        "2023-03-31": 7537000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Operating Income": {
+        "2026-03-31": 398791000.0,
+        "2025-03-31": 264551000.0,
+        "2024-03-31": 189297000.0,
+        "2023-03-31": 94381000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Operating Expense": {
+        "2026-03-31": 7823926000.0,
+        "2025-03-31": 6544079000.0,
+        "2024-03-31": 4913141000.0,
+        "2023-03-31": 3794746000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Operating Expenses": {
+        "2026-03-31": 71730000.0,
+        "2025-03-31": 58077000.0,
+        "2024-03-31": 56292000.0,
+        "2023-03-31": 41659000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Depreciation And Amortization In Income Statement": {
+        "2026-03-31": 38884000.0,
+        "2025-03-31": 44947000.0,
+        "2024-03-31": 36171000.0,
+        "2023-03-31": 43040000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Depreciation Income Statement": {
+        "2026-03-31": 38884000.0,
+        "2025-03-31": 44947000.0,
+        "2024-03-31": 36171000.0,
+        "2023-03-31": 43040000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Selling General And Administration": {
+        "2026-03-31": 38837000.0,
+        "2025-03-31": 39313000.0,
+        "2024-03-31": 37378000.0,
+        "2023-03-31": 31467000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Selling And Marketing Expense": {
+        "2026-03-31": 3170000.0,
+        "2025-03-31": 2758000.0,
+        "2024-03-31": 1706000.0,
+        "2023-03-31": 1592000.0,
+        "2022-03-31": "unavailable"
+      },
+      "General And Administrative Expense": {
+        "2026-03-31": 35667000.0,
+        "2025-03-31": 36555000.0,
+        "2024-03-31": 35672000.0,
+        "2023-03-31": 29875000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Rent And Landing Fees": {
+        "2026-03-31": 12650000.0,
+        "2025-03-31": 11913000.0,
+        "2024-03-31": 12295000.0,
+        "2023-03-31": 5731000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Gross Profit": {
+        "2026-03-31": 8222717000.0,
+        "2025-03-31": 6808630000.0,
+        "2024-03-31": 5102438000.0,
+        "2023-03-31": 3889127000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Cost Of Revenue": {
+        "2026-03-31": 70975000.0,
+        "2025-03-31": 76511000.0,
+        "2024-03-31": 89102000.0,
+        "2023-03-31": 79391000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Revenue": {
+        "2026-03-31": 8293692000.0,
+        "2025-03-31": 6885141000.0,
+        "2024-03-31": 5191540000.0,
+        "2023-03-31": 3968518000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Operating Revenue": {
+        "2026-03-31": 8293692000.0,
+        "2025-03-31": 6885141000.0,
+        "2024-03-31": 5191540000.0,
+        "2023-03-31": 3968518000.0,
+        "2022-03-31": "unavailable"
+      }
+    }
+  },
+  "balance_sheet_annual": {
+    "periods": [
+      "2026-03-31",
+      "2025-03-31",
+      "2024-03-31",
+      "2023-03-31",
+      "2022-03-31"
+    ],
+    "rows": {
+      "Treasury Shares Number": {
+        "2026-03-31": "unavailable",
+        "2025-03-31": "unavailable",
+        "2024-03-31": "unavailable",
+        "2023-03-31": 0.0,
+        "2022-03-31": "unavailable"
+      },
+      "Ordinary Shares Number": {
+        "2026-03-31": 30432183.0,
+        "2025-03-31": 30432183.0,
+        "2024-03-31": 30432183.0,
+        "2023-03-31": 30432183.0,
+        "2022-03-31": "unavailable"
+      },
+      "Share Issued": {
+        "2026-03-31": 30432183.0,
+        "2025-03-31": 30432183.0,
+        "2024-03-31": 30432183.0,
+        "2023-03-31": 30432183.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Debt": {
+        "2026-03-31": 1724334000.0,
+        "2025-03-31": 1603732000.0,
+        "2024-03-31": 996058000.0,
+        "2023-03-31": 899218000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Debt": {
+        "2026-03-31": 1841489000.0,
+        "2025-03-31": 1688782000.0,
+        "2024-03-31": 1022190000.0,
+        "2023-03-31": 922521000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Tangible Book Value": {
+        "2026-03-31": 1140186000.0,
+        "2025-03-31": 888783000.0,
+        "2024-03-31": 715759000.0,
+        "2023-03-31": 586624000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Invested Capital": {
+        "2026-03-31": 2915963000.0,
+        "2025-03-31": 2499618000.0,
+        "2024-03-31": 1717362000.0,
+        "2023-03-31": 1488532000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Working Capital": {
+        "2026-03-31": 798806000.0,
+        "2025-03-31": 591370000.0,
+        "2024-03-31": 507612000.0,
+        "2023-03-31": 449195000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Tangible Assets": {
+        "2026-03-31": 1140186000.0,
+        "2025-03-31": 888783000.0,
+        "2024-03-31": 715759000.0,
+        "2023-03-31": 586624000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Capital Lease Obligations": {
+        "2026-03-31": 89033000.0,
+        "2025-03-31": 77947000.0,
+        "2024-03-31": 20587000.0,
+        "2023-03-31": 20613000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Common Stock Equity": {
+        "2026-03-31": 1163507000.0,
+        "2025-03-31": 888783000.0,
+        "2024-03-31": 715759000.0,
+        "2023-03-31": 586624000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Capitalization": {
+        "2026-03-31": 1474913000.0,
+        "2025-03-31": 1229836000.0,
+        "2024-03-31": 751806000.0,
+        "2023-03-31": 674494000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Equity Gross Minority Interest": {
+        "2026-03-31": 1163486000.0,
+        "2025-03-31": 888782000.0,
+        "2024-03-31": 715760000.0,
+        "2023-03-31": 586624000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Minority Interest": {
+        "2026-03-31": -20000.0,
+        "2025-03-31": "unavailable",
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Stockholders Equity": {
+        "2026-03-31": 1163507000.0,
+        "2025-03-31": 888783000.0,
+        "2024-03-31": 715759000.0,
+        "2023-03-31": 586624000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Equity Interest": {
+        "2026-03-31": 1011323000.0,
+        "2025-03-31": 787341000.0,
+        "2024-03-31": 614319000.0,
+        "2023-03-31": 485183000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Retained Earnings": {
+        "2026-03-31": 936209000.0,
+        "2025-03-31": 705591000.0,
+        "2024-03-31": 527225000.0,
+        "2023-03-31": 401519000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Additional Paid In Capital": {
+        "2026-03-31": 75581000.0,
+        "2025-03-31": 75581000.0,
+        "2024-03-31": 75581000.0,
+        "2023-03-31": 75581000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Capital Stock": {
+        "2026-03-31": 152161000.0,
+        "2025-03-31": 101441000.0,
+        "2024-03-31": 101441000.0,
+        "2023-03-31": 101441000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Common Stock": {
+        "2026-03-31": 152161000.0,
+        "2025-03-31": 101441000.0,
+        "2024-03-31": 101441000.0,
+        "2023-03-31": 101441000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Liabilities Net Minority Interest": {
+        "2026-03-31": 2325760000.0,
+        "2025-03-31": 2098097000.0,
+        "2024-03-31": 1350662000.0,
+        "2023-03-31": 1209429000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Non Current Liabilities Net Minority Interest": {
+        "2026-03-31": 463053000.0,
+        "2025-03-31": 451797000.0,
+        "2024-03-31": 82886000.0,
+        "2023-03-31": 129355000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Non Current Liabilities": {
+        "2026-03-31": "unavailable",
+        "2025-03-31": "unavailable",
+        "2024-03-31": 1000.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": 1000.0
+      },
+      "Non Current Pension And Other Postretirement Benefit Plans": {
+        "2026-03-31": 85764000.0,
+        "2025-03-31": 47172000.0,
+        "2024-03-31": 38873000.0,
+        "2023-03-31": 28140000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Long Term Debt And Capital Lease Obligation": {
+        "2026-03-31": 377289000.0,
+        "2025-03-31": 404625000.0,
+        "2024-03-31": 44013000.0,
+        "2023-03-31": 101215000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Long Term Capital Lease Obligation": {
+        "2026-03-31": 65883000.0,
+        "2025-03-31": 63572000.0,
+        "2024-03-31": 7966000.0,
+        "2023-03-31": 13345000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Long Term Debt": {
+        "2026-03-31": 311406000.0,
+        "2025-03-31": 341053000.0,
+        "2024-03-31": 36047000.0,
+        "2023-03-31": 87870000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Long Term Provisions": {
+        "2026-03-31": 85764000.0,
+        "2025-03-31": 47172000.0,
+        "2024-03-31": 38873000.0,
+        "2023-03-31": 28140000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Current Liabilities": {
+        "2026-03-31": 1862707000.0,
+        "2025-03-31": 1646300000.0,
+        "2024-03-31": 1267776000.0,
+        "2023-03-31": 1080074000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Current Liabilities": {
+        "2026-03-31": -2000.0,
+        "2025-03-31": 191595000.0,
+        "2024-03-31": 144376000.0,
+        "2023-03-31": 122137000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Current Deferred Taxes Liabilities": {
+        "2026-03-31": "unavailable",
+        "2025-03-31": 21000.0,
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Current Debt And Capital Lease Obligation": {
+        "2026-03-31": 1464200000.0,
+        "2025-03-31": 1284157000.0,
+        "2024-03-31": 978177000.0,
+        "2023-03-31": 821306000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Current Capital Lease Obligation": {
+        "2026-03-31": 23150000.0,
+        "2025-03-31": 14375000.0,
+        "2024-03-31": 12621000.0,
+        "2023-03-31": 7268000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Current Debt": {
+        "2026-03-31": 1441050000.0,
+        "2025-03-31": 1269782000.0,
+        "2024-03-31": 965556000.0,
+        "2023-03-31": 814038000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Pensionand Other Post Retirement Benefit Plans Current": {
+        "2026-03-31": 57260000.0,
+        "2025-03-31": 28693000.0,
+        "2024-03-31": 11153000.0,
+        "2023-03-31": 10176000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Current Provisions": {
+        "2026-03-31": 57260000.0,
+        "2025-03-31": 28693000.0,
+        "2024-03-31": 11153000.0,
+        "2023-03-31": 10176000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Payables": {
+        "2026-03-31": 341249000.0,
+        "2025-03-31": 333450000.0,
+        "2024-03-31": 278446000.0,
+        "2023-03-31": 248592000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Payable": {
+        "2026-03-31": 312624000.0,
+        "2025-03-31": 313212000.0,
+        "2024-03-31": 257617000.0,
+        "2023-03-31": 228755000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Accounts Payable": {
+        "2026-03-31": 28625000.0,
+        "2025-03-31": 20238000.0,
+        "2024-03-31": 20829000.0,
+        "2023-03-31": 19837000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Assets": {
+        "2026-03-31": 3489246000.0,
+        "2025-03-31": 2986879000.0,
+        "2024-03-31": 2066422000.0,
+        "2023-03-31": 1796053000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Total Non Current Assets": {
+        "2026-03-31": 827733000.0,
+        "2025-03-31": 749209000.0,
+        "2024-03-31": 291033000.0,
+        "2023-03-31": 266784000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Non Current Assets": {
+        "2026-03-31": 1000.0,
+        "2025-03-31": "unavailable",
+        "2024-03-31": -4000.0,
+        "2023-03-31": -1000.0,
+        "2022-03-31": 1000.0
+      },
+      "Non Current Deferred Taxes Assets": {
+        "2026-03-31": 160864000.0,
+        "2025-03-31": 126558000.0,
+        "2024-03-31": 96771000.0,
+        "2023-03-31": 71466000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Investmentin Financial Assets": {
+        "2026-03-31": 20389000.0,
+        "2025-03-31": 21855000.0,
+        "2024-03-31": 13779000.0,
+        "2023-03-31": 11756000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Available For Sale Securities": {
+        "2026-03-31": 20389000.0,
+        "2025-03-31": 21855000.0,
+        "2024-03-31": 13779000.0,
+        "2023-03-31": 11756000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Long Term Equity Investment": {
+        "2026-03-31": 0.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Investmentsin Subsidiariesat Cost": {
+        "2026-03-31": 0.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Investment Properties": {
+        "2026-03-31": 113829000.0,
+        "2025-03-31": 113829000.0,
+        "2024-03-31": 113829000.0,
+        "2023-03-31": 113829000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Goodwill And Other Intangible Assets": {
+        "2026-03-31": 23321000.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Other Intangible Assets": {
+        "2026-03-31": 23321000.0,
+        "2025-03-31": "unavailable",
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Net PPE": {
+        "2026-03-31": 504051000.0,
+        "2025-03-31": 483144000.0,
+        "2024-03-31": 64143000.0,
+        "2023-03-31": 68092000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Accumulated Depreciation": {
+        "2026-03-31": -311566000.0,
+        "2025-03-31": -268639000.0,
+        "2024-03-31": -236140000.0,
+        "2023-03-31": -199983000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Gross PPE": {
+        "2026-03-31": 815617000.0,
+        "2025-03-31": 751783000.0,
+        "2024-03-31": 300283000.0,
+        "2023-03-31": 268075000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Construction In Progress": {
+        "2026-03-31": 0.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Other Properties": {
+        "2026-03-31": 16500000.0,
+        "2025-03-31": 14170000.0,
+        "2024-03-31": 12015000.0,
+        "2023-03-31": 9796000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Machinery Furniture Equipment": {
+        "2026-03-31": 200273000.0,
+        "2025-03-31": 187104000.0,
+        "2024-03-31": 164194000.0,
+        "2023-03-31": 149312000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Buildings And Improvements": {
+        "2026-03-31": 232903000.0,
+        "2025-03-31": 197711000.0,
+        "2024-03-31": 124074000.0,
+        "2023-03-31": 108967000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Land And Improvements": {
+        "2026-03-31": 365941000.0,
+        "2025-03-31": 352798000.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Properties": {
+        "2026-03-31": 0.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2022-03-31": "unavailable"
+      },
+      "Current Assets": {
+        "2026-03-31": 2661513000.0,
+        "2025-03-31": 2237670000.0,
+        "2024-03-31": 1775388000.0,
+        "2023-03-31": 1529269000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Current Assets": {
+        "2026-03-31": 1000.0,
+        "2025-03-31": -1000.0,
+        "2024-03-31": -1000.0,
+        "2023-03-31": 1000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Prepaid Assets": {
+        "2026-03-31": 227821000.0,
+        "2025-03-31": 181867000.0,
+        "2024-03-31": 204438000.0,
+        "2023-03-31": 156675000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Inventory": {
+        "2026-03-31": 52441000.0,
+        "2025-03-31": 46802000.0,
+        "2024-03-31": 50434000.0,
+        "2023-03-31": 48998000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Finished Goods": {
+        "2026-03-31": 51636000.0,
+        "2025-03-31": 46802000.0,
+        "2024-03-31": 50434000.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Work In Process": {
+        "2026-03-31": 0.0,
+        "2025-03-31": "unavailable",
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Raw Materials": {
+        "2026-03-31": 805000.0,
+        "2025-03-31": "unavailable",
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Other Receivables": {
+        "2026-03-31": 138405000.0,
+        "2025-03-31": 139384000.0,
+        "2024-03-31": 125383000.0,
+        "2023-03-31": 111312000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Taxes Receivable": {
+        "2026-03-31": 76370000.0,
+        "2025-03-31": 148206000.0,
+        "2024-03-31": 65804000.0,
+        "2023-03-31": 109868000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Accounts Receivable": {
+        "2026-03-31": 2024992000.0,
+        "2025-03-31": 1640303000.0,
+        "2024-03-31": 1267735000.0,
+        "2023-03-31": 1045102000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Allowance For Doubtful Accounts Receivable": {
+        "2026-03-31": -15085000.0,
+        "2025-03-31": -10421000.0,
+        "2024-03-31": -7270000.0,
+        "2023-03-31": -4768000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Gross Accounts Receivable": {
+        "2026-03-31": 2040077000.0,
+        "2025-03-31": 1650724000.0,
+        "2024-03-31": 1275005000.0,
+        "2023-03-31": 1049870000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Cash Cash Equivalents And Short Term Investments": {
+        "2026-03-31": 141483000.0,
+        "2025-03-31": 81109000.0,
+        "2024-03-31": 61595000.0,
+        "2023-03-31": 57313000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Short Term Investments": {
+        "2026-03-31": 113361000.0,
+        "2025-03-31": 74006000.0,
+        "2024-03-31": 56050000.0,
+        "2023-03-31": 54623000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Cash And Cash Equivalents": {
+        "2026-03-31": 28122000.0,
+        "2025-03-31": 7103000.0,
+        "2024-03-31": 5545000.0,
+        "2023-03-31": 2690000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Cash Financial": {
+        "2026-03-31": 28122000.0,
+        "2025-03-31": 7103000.0,
+        "2024-03-31": 5545000.0,
+        "2023-03-31": 2690000.0,
+        "2022-03-31": "unavailable"
+      }
+    }
+  },
+  "cash_flow_annual": {
+    "periods": [
+      "2026-03-31",
+      "2025-03-31",
+      "2024-03-31",
+      "2023-03-31",
+      "2022-03-31"
+    ],
+    "rows": {
+      "Free Cash Flow": {
+        "2026-03-31": 32977000.0,
+        "2025-03-31": -474294000.0,
+        "2024-03-31": 22008000.0,
+        "2023-03-31": 2139000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Capital Expenditure": {
+        "2026-03-31": -56476000.0,
+        "2025-03-31": -390960000.0,
+        "2024-03-31": -17101000.0,
+        "2023-03-31": -12865000.0,
+        "2022-03-31": "unavailable"
+      },
+      "End Cash Position": {
+        "2026-03-31": 28122000.0,
+        "2025-03-31": 7104000.0,
+        "2024-03-31": 5545000.0,
+        "2023-03-31": 2690000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Cash Adjustment Outside Changein Cash": {
+        "2026-03-31": 1000.0,
+        "2025-03-31": -1000.0,
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Beginning Cash Position": {
+        "2026-03-31": 7104000.0,
+        "2025-03-31": 5545000.0,
+        "2024-03-31": 2690000.0,
+        "2023-03-31": 10606000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Changes In Cash": {
+        "2026-03-31": 21017000.0,
+        "2025-03-31": 1559000.0,
+        "2024-03-31": 2855000.0,
+        "2023-03-31": -7916000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Financing Cash Flow": {
+        "2026-03-31": -12192000.0,
+        "2025-03-31": 474853000.0,
+        "2024-03-31": -19153000.0,
+        "2023-03-31": -6335000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Other Financing Charges": {
+        "2026-03-31": -1000.0,
+        "2025-03-31": 1000.0,
+        "2024-03-31": "unavailable",
+        "2023-03-31": -1000.0,
+        "2022-03-31": -9135000.0
+      },
+      "Interest Paid Cff": {
+        "2026-03-31": -131542000.0,
+        "2025-03-31": -113264000.0,
+        "2024-03-31": -101243000.0,
+        "2023-03-31": -86149000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Issuance Payments Of Debt": {
+        "2026-03-31": 141621000.0,
+        "2025-03-31": 609232000.0,
+        "2024-03-31": 99695000.0,
+        "2023-03-31": 104861000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Short Term Debt Issuance": {
+        "2026-03-31": 171268000.0,
+        "2025-03-31": 304226000.0,
+        "2024-03-31": 151518000.0,
+        "2023-03-31": 134171000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Long Term Debt Issuance": {
+        "2026-03-31": -29647000.0,
+        "2025-03-31": 305006000.0,
+        "2024-03-31": -51823000.0,
+        "2023-03-31": -29310000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Investing Cash Flow": {
+        "2026-03-31": -56244000.0,
+        "2025-03-31": -389960000.0,
+        "2024-03-31": -17101000.0,
+        "2023-03-31": -16585000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Other Investing Changes": {
+        "2026-03-31": -18000.0,
+        "2025-03-31": "unavailable",
+        "2024-03-31": "unavailable",
+        "2023-03-31": 4334000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Investment Purchase And Sale": {
+        "2026-03-31": "unavailable",
+        "2025-03-31": "unavailable",
+        "2024-03-31": -6230000.0,
+        "2023-03-31": -4334000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Intangibles Purchase And Sale": {
+        "2026-03-31": -23321000.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Purchase Of Intangibles": {
+        "2026-03-31": -23321000.0,
+        "2025-03-31": 0.0,
+        "2024-03-31": "unavailable",
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Net PPE Purchase And Sale": {
+        "2026-03-31": -32905000.0,
+        "2025-03-31": -389960000.0,
+        "2024-03-31": -17101000.0,
+        "2023-03-31": -12251000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Sale Of PPE": {
+        "2026-03-31": 250000.0,
+        "2025-03-31": 1000000.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 614000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Purchase Of PPE": {
+        "2026-03-31": -33155000.0,
+        "2025-03-31": -390960000.0,
+        "2024-03-31": -17101000.0,
+        "2023-03-31": -12865000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Operating Cash Flow": {
+        "2026-03-31": 89453000.0,
+        "2025-03-31": -83334000.0,
+        "2024-03-31": 39109000.0,
+        "2023-03-31": 15004000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Taxes Refund Paid": {
+        "2026-03-31": -60980000.0,
+        "2025-03-31": -71687000.0,
+        "2024-03-31": -57190000.0,
+        "2023-03-31": -52433000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Change In Working Capital": {
+        "2026-03-31": -345788000.0,
+        "2025-03-31": -356131000.0,
+        "2024-03-31": -168943000.0,
+        "2023-03-31": -103305000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Change In Other Current Liabilities": {
+        "2026-03-31": -4009000.0,
+        "2025-03-31": 51966000.0,
+        "2024-03-31": 26598000.0,
+        "2023-03-31": 34352000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Change In Other Current Assets": {
+        "2026-03-31": 48492000.0,
+        "2025-03-31": -29490000.0,
+        "2024-03-31": 35087000.0,
+        "2023-03-31": 5500000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Change In Payable": {
+        "2026-03-31": 8387000.0,
+        "2025-03-31": -591000.0,
+        "2024-03-31": 992000.0,
+        "2023-03-31": -9088000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Change In Inventory": {
+        "2026-03-31": -5639000.0,
+        "2025-03-31": 3632000.0,
+        "2024-03-31": -1436000.0,
+        "2023-03-31": -12975000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Change In Receivables": {
+        "2026-03-31": -389353000.0,
+        "2025-03-31": -375718000.0,
+        "2024-03-31": -225135000.0,
+        "2023-03-31": -121030000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Other Non Cash Items": {
+        "2026-03-31": 141638000.0,
+        "2025-03-31": 121728000.0,
+        "2024-03-31": 105979000.0,
+        "2023-03-31": 89135000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Provisionand Write Offof Assets": {
+        "2026-03-31": 4664000.0,
+        "2025-03-31": 3151000.0,
+        "2024-03-31": 2502000.0,
+        "2023-03-31": "unavailable",
+        "2022-03-31": "unavailable"
+      },
+      "Depreciation And Amortization": {
+        "2026-03-31": 38883000.0,
+        "2025-03-31": 44947000.0,
+        "2024-03-31": 36171000.0,
+        "2023-03-31": 43040000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Depreciation": {
+        "2026-03-31": 38883000.0,
+        "2025-03-31": 44947000.0,
+        "2024-03-31": 36171000.0,
+        "2023-03-31": 43040000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Pension And Employee Benefit Expense": {
+        "2026-03-31": 37746000.0,
+        "2025-03-31": 24608000.0,
+        "2024-03-31": 21342000.0,
+        "2023-03-31": 15079000.0,
+        "2022-03-31": "unavailable"
+      },
+      "Gain Loss On Sale Of PPE": {
+        "2026-03-31": -185000.0,
+        "2025-03-31": -345000.0,
+        "2024-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2022-03-31": "unavailable"
+      },
+      "Net Income From Continuing Operations": {
+        "2026-03-31": 273475000.0,
+        "2025-03-31": 150395000.0,
+        "2024-03-31": 99249000.0,
+        "2023-03-31": 23487000.0,
+        "2022-03-31": "unavailable"
+      }
+    }
+  },
+  "ownership": {
+    "institutional_holders": "unavailable",
+    "major_holders": "unavailable"
+  },
+  "analyst_estimates": {
+    "WARNING": "All values in this section are ANALYST ESTIMATES sourced from Yahoo Finance. They are not verified facts and may differ from actual future results.",
+    "recommendation": "none",
+    "number_of_analyst_opinions": "unavailable",
+    "target_high_price": "unavailable",
+    "target_low_price": "unavailable",
+    "target_mean_price": "unavailable",
+    "target_median_price": "unavailable",
+    "forward_eps_estimate": "unavailable",
+    "peg_ratio": "unavailable"
+  }
+}
