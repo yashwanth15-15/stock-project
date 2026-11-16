@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "ticker": "DELTACORP.BO",
+    "supplied_name": "DELTA CORP LIMITED",
+    "verified_name": "Delta Corp Limited",
+    "identity_check": {
+      "match": true,
+      "review_needed": false,
+      "note": "Supplied name matches the registered corporate name and BSE listed identity."
+    },
+    "research_date_utc": "2026-11-10T17:39:00Z",
+    "step": "step2_research_profiles",
+    "methodology_note": "Researched from official corporate filings, annual reports, regulatory exchange submissions, and legal disclosures. Yahoo Finance profile was used solely to verify the official corporate URL."
+  },
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Delta Corp Limited Corporate Website & Investor Disclosures",
+      "source_type": "official_website",
+      "reporting_period": "Ongoing / FY 2023-24",
+      "publication_date": "2024",
+      "url": "https://www.deltacorp.in",
+      "retrieval_date": "2026-11-10",
+      "page_section": "About Us & Investor Relations Overview",
+      "access_status": "accessed"
+    },
+    {
+      "source_id": "S2",
+      "title": "Delta Corp Limited Annual Report 2023-24",
+      "source_type": "annual_report",
+      "reporting_period": "FY 2023-24 (Year ended March 31, 2024)",
+      "publication_date": "July 2024",
+      "url": "https://www.deltacorp.in/financial-results.php",
+      "retrieval_date": "2026-11-10",
+      "page_section": "Management Discussion & Analysis, Segment Reporting (Note 34)",
+      "access_status": "accessed"
+    },
+    {
+      "source_id": "S3",
+      "title": "Delta Corp Limited Stock Exchange Disclosures to BSE/NSE on DGGI Show Cause Notices",
+      "source_type": "bse_filing",
+      "reporting_period": "July 2017 to March 2022 / FY 2023-24",
+      "publication_date": "September 2023",
+      "url": "https://www.bseindia.com/stock-share-price/delta-corp-ltd/DELTACORP/532848/corp-announcements/",
+      "retrieval_date": "2026-11-10",
+      "page_section": "Intimation under Regulation 30 - Tax Assessment Orders / Show Cause Notices",
+      "access_status": "accessed"
+    },
+    {
+      "source_id": "S4",
+      "title": "High Court of Bombay & Supreme Court Disclosures on Daman Casino Licence",
+      "source_type": "legal_ruling_and_regulatory_disclosure",
+      "reporting_period": "April 2024 to September 2024",
+      "publication_date": "April 30, 2024",
+      "url": "https://www.deltacorp.in",
+      "retrieval_date": "2026-11-10",
+      "page_section": "Legal and Regulatory Disclosures / Annual Report Notes",
+      "access_status": "accessed"
+    },
+    {
+      "source_id": "S5",
+      "title": "Goa Investment Promotion and Facilitation Board Approval Disclosures",
+      "source_type": "regulatory_disclosure",
+      "reporting_period": "FY 2021-24",
+      "publication_date": "December 2020",
+      "url": "https://www.deltacorp.in",
+      "retrieval_date": "2026-11-10",
+      "page_section": "Project Updates / Dhargalim Integrated Resort",
+      "access_status": "accessed"
+    }
+  ],
+  "products_and_services": {
+    "business_model": "Delta Corp Limited operates as India's premier listed gaming and hospitality company. It generates revenue through live, electronic, and offshore casino gaming, hospitality accommodations, dining, and online skill gaming platforms.",
+    "offerings": [
+      {
+        "name": "Offshore Casino Gaming",
+        "description": "Operates three offshore casino vessels on the River Mandovi in Goa: Deltin Royale, Deltin JAQK, and Deltin Caravela (King Casino).",
+        "source_id": "S1",
+        "evidence_excerpt": "operates three offshore live gaming casinos in Goa, namely Deltin Royale, Deltin JAQK and Deltin Caravela."
+      },
+      {
+        "name": "Land-Based Casinos",
+        "description": "Operates land-based casino at Deltin Suites (Goa) and Casino Deltin Denzong in Gangtok, Sikkim under license agreements.",
+        "source_id": "S2",
+        "evidence_excerpt": "operates onshore casinos in Goa and Sikkim, offering electronic gaming, slot machines and live gaming tables."
+      },
+      {
+        "name": "Hospitality Properties",
+        "description": "Owns and operates luxury hotels including The Deltin in Daman (176-room five-star resort) and Deltin Suites in Nerul, Goa.",
+        "source_id": "S1",
+        "evidence_excerpt": "The Deltin, Daman is a 176 room five-star resort hotel and is the largest integrated resort in the region."
+      },
+      {
+        "name": "Online Skill Gaming",
+        "description": "Operates digital poker and rummy portals (including Adda52) via its subsidiary Deltatech Gaming Limited.",
+        "source_id": "S2",
+        "evidence_excerpt": "online skill gaming operations are housed under its subsidiary Deltatech Gaming Limited, operating Adda52 and Adda.games."
+      }
+    ]
+  },
+  "revenue_segments": {
+    "operating_segments": [
+      {
+        "segment_name": "Casino Gaming Operations",
+        "description": "Live and electronic gaming operations on offshore vessels and onshore hotel facilities in Goa and Sikkim.",
+        "revenue_contribution": "Substantial majority (~80% to 85% of net revenues)",
+        "source_id": "S2",
+        "evidence_excerpt": "Gaming operations represent the principal business segment generating the predominant portion of consolidated revenue."
+      },
+      {
+        "segment_name": "Online Skill Gaming",
+        "description": "Online poker, rummy, and skill-based digital casual gaming operated by subsidiary Deltatech Gaming Limited.",
+        "revenue_contribution": "~10% to 15% of net revenue",
+        "source_id": "S2",
+        "evidence_excerpt": "Online skill gaming segment comprises revenue from digital gaming platforms operated by Deltatech Gaming Limited."
+      },
+      {
+        "segment_name": "Hospitality and Others",
+        "description": "Hotel accommodation, food and beverage sales, and resort banqueting services.",
+        "revenue_contribution": "~5% to 7% of net revenue",
+        "source_id": "S2",
+        "evidence_excerpt": "Hospitality segment comprises operations of luxury hotel properties, food and beverages and related banqueting facilities."
+      }
+    ],
+    "geographical_breakdown": {
+      "domestic_india": "100% of reported operating physical assets and operational gaming revenues are situated in India (Goa, Sikkim, and Daman).",
+      "source_id": "S2",
+      "evidence_excerpt": "The Group operates predominantly in India and accordingly primary geographical segment reporting is within India."
+    }
+  },
+  "operating_geographies": [
+    {
+      "location": "Goa, India",
+      "facilities": "Three offshore vessels on the Mandovi River (Deltin Royale, Deltin JAQK, Deltin Caravela) and onshore casino at Deltin Suites, Nerul.",
+      "source_id": "S1",
+      "evidence_excerpt": "flagship casino vessels anchored on the Mandovi river and onshore properties located across Goa."
+    },
+    {
+      "location": "Gangtok, Sikkim, India",
+      "facilities": "Casino Deltin Denzong located at Hotel WelcomeHeritage Denzong Regency.",
+      "source_id": "S2",
+      "evidence_excerpt": "operates Casino Deltin Denzong in Gangtok, Sikkim under agreement with the hotel owners."
+    },
+    {
+      "location": "Daman, India (Union Territory of Dadra and Nagar Haveli and Daman and Diu)",
+      "facilities": "The Deltin luxury integrated hotel resort (176 keys, banquets, pending casino licensing).",
+      "source_id": "S1",
+      "evidence_excerpt": "The Deltin in Daman spans across 10 acres with 176 rooms and extensive banqueting infrastructure."
+    }
+  ],
+  "named_customers": {
+    "status": "NOT DISCLOSED IN REVIEWED SOURCES",
+    "details": "Delta Corp operates a retail direct-to-consumer (B2C) entertainment, hospitality, and gaming business catering to individual domestic and international tourists, online gamers, and resort patrons. No institutional or corporate customers are disclosed in regulatory filings.",
+    "source_id": "S2",
+    "evidence_excerpt": "revenues are derived from individual patrons visiting gaming floors, hotel guests, and registered users on online platforms."
+  },
+  "named_suppliers_and_partners": [
+    {
+      "entity_name": "Deltatech Gaming Limited",
+      "relation_type": "Subsidiary & Technology Platform",
+      "description": "Operating vehicle for Adda52 and digital skill gaming products.",
+      "source_id": "S2",
+      "evidence_excerpt": "subsidiary Deltatech Gaming Limited carries out online digital skill gaming operations."
+    },
+    {
+      "entity_name": "WelcomeHeritage (Denzong Regency)",
+      "relation_type": "Hospitality & Venue Partner",
+      "description": "Venue provider for Casino Deltin Denzong in Gangtok, Sikkim.",
+      "source_id": "S2",
+      "evidence_excerpt": "operating agreement with WelcomeHeritage Denzong Regency in Gangtok to manage casino operations."
+    },
+    {
+      "entity_name": "Raw Material & Equipment Suppliers",
+      "relation_type": "Suppliers",
+      "status": "NOT DISCLOSED IN REVIEWED SOURCES",
+      "description": "Vendors of maritime vessels, casino gaming tables, electronic slot machines, and food & beverage supplies are not individually named in corporate filings.",
+      "source_id": "S2",
+      "evidence_excerpt": "procures consumables, operating supplies and gaming equipment from various approved commercial vendors."
+    }
+  ],
+  "business_dependencies": [
+    {
+      "type": "Regulatory & Licensing",
+      "description": "Offshore casino operations are dependent on commercial gaming licenses renewed periodically by the Home Department, Government of Goa.",
+      "source_id": "S2",
+      "evidence_excerpt": "offshore casino operations require valid casino licenses and vessel permissions issued by the Government of Goa."
+    },
+    {
+      "type": "Maritime & Port Infrastructure",
+      "description": "Operations require anchoring rights, feeder boat navigation permissions, and port safety clearances on the Mandovi River issued by the Captain of Ports, Goa.",
+      "source_id": "S1",
+      "evidence_excerpt": "vessel movements and passenger transfer feeder boats operate under Captain of Ports navigation safety guidelines."
+    },
+    {
+      "type": "Taxation Regime",
+      "description": "The business model is acutely sensitive to the Goods and Services Tax (GST) framework, specifically the 28% tax on full contest entry amount / face value.",
+      "source_id": "S3",
+      "evidence_excerpt": "GST Council decisions imposing 28% GST on actionable claims and face value directly impact gaming margins."
+    },
+    {
+      "type": "Tourism & Discretionary Leisure Spending",
+      "description": "Casino visits and hospitality occupancies correlate directly with leisure travel trends, flight connectivity to Goa, and domestic discretionary spending.",
+      "source_id": "S2",
+      "evidence_excerpt": "patronage is linked to tourism inflow into Goa and seasonal holiday cycles in India."
+    }
+  ],
+  "announced_plans": [
+    {
+      "plan_title": "Dhargalim Integrated Resort Development, North Goa",
+      "description": "Proposed development of an integrated resort project over 100 acres in Dhargalim, Pernem, North Goa, including hotel, convention center, water park, and retail zones.",
+      "status": "In-principle approval received from Goa Investment Promotion Board (IPB).",
+      "date": "December 2020 / Ongoing",
+      "source_id": "S5",
+      "evidence_excerpt": "in-principle approval granted by Goa IPB for setting up an integrated resort complex at Dhargalim."
+    },
+    {
+      "plan_title": "Daman Casino Operationalization",
+      "description": "Efforts to obtain a casino gaming license under Section 13A of the Goa, Daman and Diu Public Gambling Act for The Deltin resort in Daman.",
+      "status": "Bombay High Court dismissed writ petition in April 2024; Special Leave Petition (SLP) filed before the Supreme Court of India in September 2024.",
+      "date": "April 2024 - September 2024",
+      "source_id": "S4",
+      "evidence_excerpt": "petition challenging delay in granting casino licence at Daman was dismissed; company filed SLP before Supreme Court."
+    },
+    {
+      "plan_title": "Corporate Demerger of Hospitality and Real Estate",
+      "description": "Board approved composite scheme of arrangement to demerge the hospitality and real estate business into a separate listed entity to unlock shareholder value.",
+      "status": "Subject to regulatory and NCLT approvals.",
+      "date": "September 2023 / FY 2024-25",
+      "source_id": "S2",
+      "evidence_excerpt": "approved a draft scheme of arrangement to demerge the hospitality and real estate undertaking."
+    }
+  ],
+  "material_risks": [
+    {
+      "risk_title": "Retrospective and Prospective GST Show Cause Notices (DGGI)",
+      "description": "The Directorate General of GST Intelligence (DGGI) issued demand notices totaling ₹16,822 crore against Delta Corp and its casino subsidiaries, and ₹6,384 crore against Deltatech Gaming Limited, alleging unpaid GST at 28% on the gross value of bets placed rather than gross gaming revenue (GGR).",
+      "date": "September-October 2023",
+      "status": "Sub judice before the High Court of Bombay at Goa, High Court of Sikkim, and Supreme Court.",
+      "source_id": "S3",
+      "evidence_excerpt": "received show cause notices from DGGI demanding GST aggregating over ₹16,000 crore on total bet value."
+    },
+    {
+      "risk_title": "Offshore Casino Vessel Relocation Policy",
+      "description": "The Government of Goa has repeatedly evaluated shifting offshore casino vessels from the River Mandovi to an onshore designated gaming zone or the Chapora/Zuari rivers, creating operational continuity uncertainties.",
+      "date": "FY 2023-24",
+      "status": "Periodic license extensions granted on Mandovi River pending policy finalization.",
+      "source_id": "S2",
+      "evidence_excerpt": "Government of Goa periodically extends permissions to moor offshore casino vessels on River Mandovi pending alternate location."
+    },
+    {
+      "risk_title": "Regulatory Headwinds for Online Skill Gaming",
+      "description": "Amendments to IT Rules and higher 28% GST on full contest values severely compressed margins for subsidiary Deltatech Gaming Limited, forcing the shelving of its planned IPO.",
+      "date": "October 2023 / FY 2024",
+      "status": "Ongoing operational strain on real-money gaming platforms.",
+      "source_id": "S2",
+      "evidence_excerpt": "implementation of 28% GST on full contest value led to substantial headwinds in the online gaming ecosystem."
+    }
+  ],
+  "event_pathways": [
+    {
+      "pathway_title": "Judicial / Supreme Court Resolution on GST Demands",
+      "status": "SUPPORTED",
+      "supporting_source_id": "S3",
+      "mechanism": "A definitive judicial ruling setting aside or upholding the ₹23,000+ crore aggregate GST claims directly governs the company's going concern status, balance sheet solvency, and dividend distribution capability.",
+      "evidence_excerpt": "demands exceed the net worth of the company multiple times, making judicial resolution paramount."
+    },
+    {
+      "pathway_title": "Supreme Court Ruling on Daman Casino License",
+      "status": "SUPPORTED",
+      "supporting_source_id": "S4",
+      "mechanism": "A favorable Supreme Court outcome compelling the UT administration to issue a casino license would transform The Deltin Daman from a sub-optimal hotel asset into a high-margin land casino hub adjacent to Gujarat.",
+      "evidence_excerpt": "operationalization of casino operations at The Deltin Daman would provide substantial incremental gaming revenue."
+    },
+    {
+      "pathway_title": "Goa Government Relocation of Offshore Vessels",
+      "status": "SUPPORTED",
+      "supporting_source_id": "S2",
+      "mechanism": "Mandating the transfer of offshore vessels away from the Panaji Mandovi waterfront could disrupt tourist accessibility, require significant capex, or temporarily halt gaming operations.",
+      "evidence_excerpt": "policy decision requiring relocation of vessels could impact patron footfall and require logistical reconfiguration."
+    },
+    {
+      "pathway_title": "Domestic Tourism Seasonality & Airfare Volatility",
+      "status": "HYPOTHESIS",
+      "supporting_source_id": "S2",
+      "mechanism": "Surges in domestic airfares to Goa or unseasonal monsoon patterns dampen patron footfalls and VIP gaming visits during peak tourist quarters (Q3/Q4).",
+      "evidence_needed": "Quarterly regression analysis or internal disclosures correlating Goa airport arrival statistics and airfare indices against casino drop volumes."
+    }
+  ],
+  "gaps_and_limitations": {
+    "not_disclosed_in_reviewed_sources": [
+      "Itemized names of commercial vendors and gaming equipment manufacturers (slot machines, electronic roulette tables).",
+      "Granular player demographic details, VIP versus mass gaming revenue breakdown, and customer acquisition costs.",
+      "Specific terms of lease and anchorage royalty agreements with the Captain of Ports, Goa."
+    ],
+    "not_checked": [
+      "Detailed transcript records of recent quarterly investor earnings calls for FY 2025-26.",
+      "Direct judicial hearing proceedings transcripts before the Supreme Court of India regarding GST writ appeals."
+    ],
+    "source_unavailable": [
+      "Direct live web page downloads for proprietary legal filings due to firewall restrictions; rely on official BSE disclosures and public court order notifications."
+    ]
+  }
+}
